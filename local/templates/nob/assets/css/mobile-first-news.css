@@ -1,0 +1,84 @@
+/* News */
+.block-news__square {
+	display: none;
+}
+
+.block-news .block__inner {
+	padding: 15px 0 60px 0;
+}
+
+.block-news__header .header__title {
+	font-size: 38px;
+	line-height: 38px;
+	margin: 0 0 26px 0;
+}
+
+.block-news__filter {
+	top: 16px;
+}
+
+.news-item__preview {
+	margin: 0 0 13px 0;
+}
+
+.news-item__date {
+	font-size: 14px;
+	margin: 0 0 2px 0;
+}
+
+.news-item__title {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 120%;
+	margin: 0 0 10px 0;
+}
+
+.news-item__shorttext {
+	font-size: 16px;
+	line-height: 24px;
+}
+/* \News */
+
+/* Waterfall */
+.wf-box {
+	border-bottom: 1px solid #eaeaea;
+	margin: 0 0 35px 0;
+	padding: 0 0 28px 0;
+}
+
+.wf-box:last-child {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+/* \Waterfall */
+
+/* Paginator */
+.paginator {
+	-webkit-justify-content: center;
+	justify-content: center;
+}
+
+.paginator__control_left {
+	margin-right: .8em;
+}
+
+.paginator__control:before {
+	width: .9em;
+}
+
+.paginator__control:after {
+	left: auto;
+	right: 5px;
+}
+
+.paginator__control_left:after {
+	left: 5px;
+	right: auto;
+}
+
+/*.paginator__control_page:nth-child(5),
+.paginator__control_page:nth-child(6) {
+	display: none !important;
+}*/
+/* \Paginator */

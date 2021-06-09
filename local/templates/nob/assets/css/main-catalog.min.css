@@ -1,0 +1,5 @@
+.paginator{-webkit-align-items:center;align-items:center;display:-webkit-flex;display:flex;-webkit-justify-content:flex-end;justify-content:flex-end}.paginator__control{background:transparent;border:1px solid transparent;margin:0 .2em}
+.paginator__control_left{margin-left:0}.paginator__control_right{margin-right:0}.paginator__control_ia{cursor:default;opacity:.2}.paginator__control:after{border:0;left:auto;opacity:1;right:.4em}
+.paginator__control:hover:after,.paginator__control:focus:after,.paginator__control:active:after{opacity:1;visibility:visible}.paginator__control_left:after{left:.4em;right:auto}
+.paginator__control_page{background:transparent;background:rgba(240,232,219,.0);font-size:.8em;height:1.875em;line-height:1.875em;margin:0 .4em;padding:0 .5em;text-align:center;-webkit-transition:background-color .15s ease,color .15s ease;-o-transition:background-color .15s ease,color .15s ease;transition:background-color .15s ease,color .15s ease}
+.paginator__control_page-current{background-color:#f0e8db;color:#000!important;cursor:default}.paginator__control_dots{font-size:.8em;height:1.875em;line-height:1.875em;margin:0 .875em}

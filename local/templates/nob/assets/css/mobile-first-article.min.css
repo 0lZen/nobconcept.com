@@ -1,0 +1,9 @@
+.block-article__square{display:none}.block-article .block__inner{padding:0 0 64px 0}.block-article__inner{margin:0 0 24px 0;padding:16px 0 0 0}.block-article__header .header__title{font-size:26px;line-height:120%;margin:0 0 10px 0}
+.block-article__content{font-size:16px;line-height:24px}.block-article__slides-wrapper{height:280px;margin:30px 0 38px 0}.block-article__slides-wrapper:first-child{margin-top:0}
+.block-article__slides-square{bottom:-15px;height:280px;right:-15px;width:120px}.block-article__controls{bottom:10px;right:-10px}.block-article__content p{margin:0 0 25px 0}
+.block-article__content p:last-child{margin-bottom:20px}.block-article__bottom{display:block}.block-article__bottom-left{display:none}.block-article__bottom-right{display:block}
+.article-socials{-webkit-justify-content:space-between;justify-content:space-between;width:100%}.article-socials__label{font-size:14px;line-height:120%;margin:0 15px 0 0}
+.ya-share2 .ya-share2__container .ya-share2__item{margin:0 5px 0 0!important}.ya-share2 .ya-share2__container .ya-share2__item:last-child{margin:0!important}
+.ya-share2__link{-webkit-align-items:center;align-items:center;display:-webkit-flex!important;display:flex!important;-webkit-justify-content:flex-start;justify-content:flex-start}
+.ya-share2__link .ya-share2__badge{-webkit-align-items:center;align-items:center;border:1px solid #e5e5e5!important;-webkit-border-radius:3px!important;-moz-border-radius:3px!important;-ms-border-radius:3px!important;-o-border-radius:3px!important;border-radius:3px!important;display:-webkit-flex!important;display:flex!important;-webkit-justify-content:center;justify-content:center;height:26px!important;width:32px!important}
+.ya-share2__title{display:none!important}.block-article__date{font-size:14px;line-height:120%;margin:0 0 15px 0}

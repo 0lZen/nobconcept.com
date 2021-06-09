@@ -1,0 +1,4 @@
+<?
+$MESS["NOB_TEMPLATE_NAME"] = "NOBCONCEPT";
+$MESS["NOB_TEMPLATE_DESC"] = "Template online store \"NOBCONCEPT\"";
+?>

@@ -1,0 +1,21 @@
+<?
+$MESS["TITLE"] = "Favourites";
+$MESS["EMPTY"] = "You don't have any favorites. Add an item to<a href=\"/en/catalog/\" title=\"catalog\">catalogue</a>";
+$MESS["PRODUCT"] = "Product";
+$MESS["COST"] = "Cost";
+$MESS["SUBTOTAL"] = "Subtotal";
+$MESS["PREORDER"] = "Pre-order";
+$MESS["QUANTITY"] = "Quantity";
+$MESS["QUANTITY_SHORT"] = "Quantity";
+$MESS["SIZE"] = "Size";
+$MESS["ADD_TO_FAVORITE"] = "Add to favourites";
+$MESS["REMOVE_FROM_FAVORITE"] = "Remove from favorites";
+$MESS["ADDED_TO_FAVORITE"] = "Product added to favorites";
+$MESS["REMOVED_FROM_FAVORITE"] = "Product removed from favorites";
+$MESS["REMOVE"] = "Remove";
+$MESS["APPLY"] = "Apply";
+$MESS["TO_CART"] = "Add to cart";
+$MESS["IN_CART"] = "In the cart";
+$MESS["TO_CART_MES"] = "Item added to your cart";
+$MESS["PCS"] = "pcs";
+$MESS["NOT_AVAILABLE"] = "Not available";

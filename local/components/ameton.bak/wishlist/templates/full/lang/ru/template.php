@@ -1,0 +1,21 @@
+<?
+$MESS["TITLE"] = "Избранное";
+$MESS["EMPTY"] = "У вас нет избранных товаров. Добавьте товар в <a href=\"/catalog/\" title=\"Каталог\">каталоге</a>";
+$MESS["PRODUCT"] = "Товар";
+$MESS["COST"] = "Стоимость";
+$MESS["SUBTOTAL"] = "Итого";
+$MESS["PREORDER"] = "Предзаказ";
+$MESS["QUANTITY"] = "Количество";
+$MESS["QUANTITY_SHORT"] = "Кол-во";
+$MESS["SIZE"] = "Размер";
+$MESS["ADD_TO_FAVORITE"] = "В избранное";
+$MESS["REMOVE_FROM_FAVORITE"] = "Убрать из избранного";
+$MESS["ADDED_TO_FAVORITE"] = "Товар добавлен в избранное";
+$MESS["REMOVED_FROM_FAVORITE"] = "Товар убран из избранного";
+$MESS["REMOVE"] = "Удалить";
+$MESS["APPLY"] = "Применить";
+$MESS["TO_CART"] = "В корзину";
+$MESS["IN_CART"] = "В корзине";
+$MESS["TO_CART_MES"] = "Товар добавлен в вашу корзину";
+$MESS["PCS"] = "шт";
+$MESS["NOT_AVAILABLE"] = "Нет в наличии";

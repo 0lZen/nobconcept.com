@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Все", 
+		"/en/catalog/", 
+		Array("/catalog/"), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Мужское", 
+		"/en/catalog/men/", 
+		Array("/catalog/men/"), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Женское", 
+		"/en/catalog/women/", 
+		Array("/catalog/women/"), 
+		Array(), 
+		"" 
+	),
+	/*Array(
+		"Детское", 
+		"/catalog/baby/", 
+		Array("/catalog/baby/"), 
+		Array(), 
+		"" 
+	)*/
+);
+?>

@@ -1,0 +1,19 @@
+#bx-panel-back {
+	display: none !important;
+}
+
+#bx-panel a:after {
+	display: none;
+}
+
+.block-season__slides-wrapper .bx-context-toolbar-empty-area {
+	height: 100%;
+}
+
+.block-looks__images .bx-context-toolbar-empty-area {
+	height: 100%;
+}
+
+.block-city .bx-context-toolbar-empty-area {
+	height: 100%;
+}

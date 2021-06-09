@@ -1,0 +1,23 @@
+	if ($('.js-detail-with-scaled-imgs img').length > 0) {
+		var imgs = [];
+		$('.js-detail-with-scaled-imgs img').each(function(){
+			var curImg = $(this).attr('src');
+			imgs.push({'src':curImg,'thumb':curImg});
+		})
+
+		$(".js-detail-with-scaled-imgs img").click(function () {
+			var img = $(this).attr('src'),
+				index = 0;
+			$.each(imgs, function(){
+				if (this.src == img) {
+					return false;
+				}
+				index += 1;
+			});
+			$(this).lightGallery({
+				dynamic: true,
+				dynamicEl: imgs,
+				index: index
+			});
+		});
+	}

@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Main", 
+		"/en/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Catalog", 
+		"/en/catalog/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"About us", 
+		"/en/shop/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"News", 
+		"/en/news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Contacts", 
+		"/en/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Brands", 
+		"/en/brands/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"New items", 
+		"/en/catalog/filter/novinka-is-true/apply/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

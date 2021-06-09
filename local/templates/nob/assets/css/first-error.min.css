@@ -1,0 +1,5 @@
+.l-page_screen main{padding-bottom:0!important}.block-error{height:100%;margin:0!important}.block-error__image{position:absolute}.block-error__image_left{background:transparent url(<?=SITE_TEMPLATE_PATH?>/assets/css/images/error/left.png) no-repeat left bottom;-webkit-background-size:contain;background-size:contain;bottom:0;height:17.5em;left:0;width:12.25em}
+.block-error__image_right{background:transparent url(<?=SITE_TEMPLATE_PATH?>/assets/css/images/error/right.png) no-repeat right center;-webkit-background-size:contain;background-size:contain;height:28em;right:0;top:5.2em;width:12.7em}
+.block-error__header{left:0;margin:-2em 0 0 0;position:absolute;text-align:center;top:50%;-webkit-transform:translate(0,-50%);-ms-transform:translate(0,-50%);-o-transform:translate(0,-50%);transform:translate(0,-50%);width:100%}
+.block-error__code{color:#eee;font-size:12em;font-weight:700;line-height:120%;margin:0 0 -.13em 0}.header__title{font-size:1.4em;line-height:120%;margin:0 0 .85em 0}
+.block-footer{display:none!important}

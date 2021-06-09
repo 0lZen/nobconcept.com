@@ -1,0 +1,214 @@
+/* Info */
+.block-info .block__inner {
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+	border-radius: 6px;
+	height: auto;
+}
+
+.block-info__inner {
+	padding: 18px 15px 10px 15px;
+}
+
+.info-tabs {
+	display: none;
+}
+
+.info-tabs__item {
+	color: #707070;
+	cursor: pointer;
+	font-size: .6em;
+	font-weight: 700;
+	height: 3.75em;
+	letter-spacing: .1em;
+	line-height: 3.75em;
+	margin: 0 3.8em 0 0;
+	text-transform: uppercase;
+	-webkit-transition: color .15s ease;
+	-o-transition: color .15s ease;
+	transition: color .15s ease;
+}
+
+.info-tabs__item:last-child {
+	margin: 0;
+}
+
+.info-tabs__item:hover,
+.info-tabs__item:focus,
+.info-tabs__item:active,
+.info-tabs__item.slides-menu__item_active {
+	color: #000;
+}
+
+.info-tabs__item:after {
+	background: transparent;
+	background: rgba(240,232,219,.0);
+	border: none;
+	-webkit-border-radius: .21em;
+	-moz-border-radius: .21em;
+	-ms-border-radius: .21em;
+	-o-border-radius: .21em;
+	border-radius: .21em;
+	bottom: -.25em;
+	height: .416em;
+	-webkit-transition: background-color .15s ease;
+	-o-transition: background-color .15s ease;
+	transition: background-color .15s ease;
+}
+
+.info-tabs__item.slides-menu__item_active:after {
+	background-color: #f0e8db;
+	opacity: 1;
+	visibility: visible;
+}
+
+.info-pages__item {
+	border-bottom: 1px solid #eaeaea;
+	margin: 0 0 8px 0;
+	min-height: 0;
+	padding: 0 0 6px 0;
+	position: relative;
+	-webkit-transition: padding .15s ease;
+	-o-transition: padding .15s ease;
+	transition: padding .15s ease;
+	width: 260px;
+}
+
+.info-pages__item_active {
+	padding: 0 0 25px 0;
+}
+
+.info-pages__item:last-child {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+
+.info-pages__item h3 {
+	cursor: pointer;
+	font-size: 16px;
+	margin: 0 0 0 0;
+	position: relative;
+	top: -1px;
+	-webkit-transition: margin .15s ease;
+	-o-transition: margin .15s ease;
+	transition: margin .15s ease;
+}
+
+.info-pages__item_active h3 {
+	margin: 0 0 2px 0;
+}
+
+.info-pages__arrow {
+	display: block;
+	height: 8px;
+	position: absolute;
+	right: 0;
+	top: 10px;
+	-webkit-transform: rotate(0deg);
+	-ms-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-webkit-transition: -webkit-transform .15s ease;
+	-o-transition: -o-transform .15s ease;
+	transition: transform .15s ease;
+	width: 12px;
+}
+
+.info-pages__item_active .info-pages__arrow {
+	-webkit-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
+
+.info-pages__content {
+	max-height: 0;
+	opacity: 0;
+	overflow: hidden;
+	-webkit-transition: max-height .15s ease, opacity .15s ease, visibility .15s ease;
+	-o-transition: max-height .15s ease, opacity .15s ease, visibility .15s ease;
+	transition: max-height .15s ease, opacity .15s ease, visibility .15s ease;
+	visibility: hidden;
+}
+
+.info-pages__item_active .info-pages__content {
+	max-height: 1000px;
+	opacity: 1;
+	visibility: visible;
+}
+
+.info-pages__item p {
+	font-size: 16px;
+	line-height: 27px;
+}
+
+.info-pages__banner {
+	display: none;
+	margin: 15px auto 0 auto;
+	max-height: 234px;
+	max-width: 234px;
+	position: relative;
+	right: 0;
+	top: 0;
+}
+
+.info-pages__item:nth-child(1) .info-pages__banner {
+	display: block;
+}
+/* \Info */
+
+/* Look */
+.block-look .block__inner {
+	height: auto;
+	padding: 40px 0 64px 0;
+}
+
+.block-look__header .header__title {
+	font-size: 22px;
+	line-height: 120%;
+	margin: 0 0 20px 0;
+}
+
+.block-look__items {
+	margin: 0 0 15px 0;
+}
+
+.block-look__items .product {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.block-look__buttons {
+	-webkit-align-items: center;
+	align-items: center;
+	display: -webkit-flex!important;
+	display: flex!important;
+	-webkit-justify-content: center;
+	justify-content: center;
+	text-align: center;
+	width: 100%;
+}
+
+.block-look__buttons .slides-menu__item {
+	background: #b2b2b2;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+	border-radius: 50%;
+	cursor: pointer;
+	height: 5px;
+	margin: 0 3px;
+	-webkit-transition: background-color .15s ease;
+	-o-transition: background-color .15s ease;
+	transition: background-color .15s ease;
+	width: 5px;
+}
+
+.block-look__buttons .slides-menu__item_active {
+	background-color: #000;
+}
+/* \Look */

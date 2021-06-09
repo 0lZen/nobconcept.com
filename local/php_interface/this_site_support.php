@@ -1,0 +1,1 @@
+Техподдержка: <a href="https://ameton.ru" target="_blank" rel="nofollow">Ameton.ru</a>

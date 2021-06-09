@@ -1,0 +1,35 @@
+/* Error */
+.block-error__image_left {
+	display: none;
+}
+
+.block-error__image_right {
+	background: transparent url(<?=SITE_TEMPLATE_PATH?>/assets/css/images/mobile/error/bottom.png) no-repeat center bottom;
+	-webkit-background-size: contain;
+	background-size: contain;
+	bottom: 0;
+	height: 343px;
+	right: 0;
+	top: auto;
+	width: 100%;
+}
+
+.block-error__header {
+	margin: -45px 0 0 0;
+}
+
+.block-error__code {
+	font-size: 120px;
+	line-height: 120%;
+	margin: 0 0 -10px 0;
+}
+
+.header__title {
+	font-size: 20px;
+	margin: 0 0 10px 0;
+}
+
+.block-error__header .button {
+	padding: 0 35px;
+}
+/* \Error */

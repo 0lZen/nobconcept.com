@@ -1,0 +1,1 @@
+<a title="Посмотреть подборку" class="button" href="/en/sale/">View the selection</a>

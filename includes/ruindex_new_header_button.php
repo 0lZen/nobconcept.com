@@ -1,0 +1,1 @@
+<a href="/catalog/filter/novinka-is-true/apply/" class="button" title="Посмотреть подборку">Посмотреть подборку</a>

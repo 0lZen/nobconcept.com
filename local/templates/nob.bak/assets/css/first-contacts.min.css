@@ -1,0 +1,30 @@
+.block-contacts__inner{padding:2.9em 0 5.5em 4.9em}.block-contacts__line{background:#b9b9b9;height:.05em;left:50em;min-height:1px;opacity:.4;position:absolute;top:5.5em;width:200em}
+.block-contacts__header .header__title{font-size:4em;margin:0 0 .34em 0}.block-about__workhours{color:#a8a8a8;font-size:.7em;font-weight:600;margin:0 0 1.6em 0}
+.contacts-contacts,.contacts-contacts__item{-webkit-align-items:center;align-items:center;display:-webkit-flex;display:flex;-webkit-justify-content:flex-start;justify-content:flex-start}
+.contacts-contacts{-webkit-flex-wrap:wrap;flex-wrap:wrap;width:20em}.contacts-contacts__item{margin:0 2.25em .4em 0}.contacts-contacts__item_phone,.contacts-contacts__item_email{width:10.25em}
+.contacts-contacts__item_facebook,.contacts-contacts__item_instagram{margin-right:0}.contacts-contacts__icon{background:transparent no-repeat center;-webkit-background-size:contain;background-size:contain;height:.85em;margin:0 .55em 0 0;width:.8em}
+.contacts-contacts__item_phone .contacts-contacts__icon{-webkit-background-size:.8em .8em;background-size:.8em .8em}.contacts-contacts__item_facebook .contacts-contacts__icon{-webkit-background-size:.5em .85em;background-size:.5em .85em}
+.contacts-contacts__item_email .contacts-contacts__icon{-webkit-background-size:.8em .7em;background-size:.8em .7em}.contacts-contacts__item_instagram .contacts-contacts__icon{-webkit-background-size:.8em .8em;background-size:.8em .8em}
+.contacts-contacts__text{font-size:.9em}.contacts-contacts__link:after{display:none}.block-map{height:18.2em}@media(orientation:portrait) and (min-width:737px){.block-map{bottom:0;height:18.2em;height:calc(100% - 35em);left:0;position:absolute;width:100%}
+}.block-map__inner{height:100%;position:relative;width:86%;width:calc(100vw - -1 * -1 *(100vw - 57em) / 2 - 4.65em)}.block-map__square{background:#f0e8db;bottom:0;height:19.9em;position:absolute;right:-1.8em;width:19.75em}
+@media(orientation:portrait) and (min-width:737px){.block-map__square{height:19.9em;height:calc(100% - -1.7em)}}.block-map__maps{background:#f7f7f7;height:100%;position:relative;width:100%;z-index:2}
+.block-footer__logo-wrapper{z-index:2!important}
+.block-map__maps {
+    overflow:hidden
+}
+
+@media (max-width:1219px) {
+    .block-map {
+        position:static!important
+    }
+
+    .block-map__square {
+        display:none
+    }
+
+    .block-map__inner {
+        width:auto!important;
+        height:300px
+    }
+
+}

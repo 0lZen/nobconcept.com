@@ -1,0 +1,11 @@
+.block-news__square{background:#f0e8db;height:24.7em;left:0;position:absolute;top:-.8em;width:1.25em}.block-news .block__inner{height:auto;padding:2.45em 0 4.5em 0}
+.block-news__header .header__title{margin:0 0 .3em 0}.block-news__filter{position:absolute;right:0;top:4.9em;width:3.35em}.news-item__preview{display:block;height:auto;margin:0 0 .8em 0;width:100%}
+.news-item__date{color:#a8a8a8;font-size:.7em;font-weight:600;margin:0 0 .3em 0}.news-item__title{font-size:1.2em;font-weight:700;line-height:120%;margin:0 0 .55em 0}
+.news-item__link:after{display:none}.news-item__shorttext{color:#7b7b7b;font-size:.9em;line-height:1.6em}.wf-container{margin:0 auto}.wf-container:before,.wf-container:after{content:'';display:table}
+.wf-container:after{clear:both}.wf-box{border-bottom:1px solid #eaeaea;margin:0 .5em 1.65em .5em;padding:0 0 1.35em 0}.wf-column{float:left}.wf-column:first-child .wf-box{margin-left:0;margin-right:1em}
+.wf-column:last-child .wf-box{margin-left:1em;margin-right:0}.wf-column .wf-box:last-child{border:0;margin-bottom:0;padding:0}.block-news__bottom{padding:2em 0 0 0}
+.paginator{-webkit-align-items:center;align-items:center;display:-webkit-flex;display:flex;-webkit-justify-content:flex-end;justify-content:flex-end}.paginator__control{background:transparent;border:1px solid transparent;margin:0 .2em}
+.paginator__control_left{margin-left:0}.paginator__control_right{margin-right:0}.paginator__control_ia{cursor:default;opacity:.2}.paginator__control:after{border:0;left:auto;opacity:1;right:.4em}
+.paginator__control:hover:after,.paginator__control:focus:after,.paginator__control:active:after{opacity:1;visibility:visible}.paginator__control_left:after{left:.4em;right:auto}
+.paginator__control_page{background:transparent;background:rgba(240,232,219,.0);font-size:.8em;height:1.875em;line-height:1.875em;margin:0 .4em;padding:0 .5em;text-align:center;-webkit-transition:background-color .15s ease,color .15s ease;-o-transition:background-color .15s ease,color .15s ease;transition:background-color .15s ease,color .15s ease}
+.paginator__control_page-current{background-color:#f0e8db;color:#000!important;cursor:default}.paginator__control_dots{font-size:.8em;height:1.875em;line-height:1.875em;margin:0 .875em}
